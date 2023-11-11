@@ -1,8 +1,9 @@
 # A game of snake
 
 ## Play
-Git clone this repo.
+
 ```bash
+git clone https://github.com/withjak/snake.git
 cd snake
 clj -X snake.core/run
 ```
